@@ -14,12 +14,10 @@ h1, h2, h3 {
 }
 
 a {
-  color: #8b6cef;
+  color: #b18cff; /* #b18cff #8b6cef */
 }
 
-a:visited {
-  color: #b18cff;
-}
+
 
 a:hover {
   color: #c9b8ff;
