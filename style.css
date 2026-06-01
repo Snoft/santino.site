@@ -3,10 +3,30 @@ body {
   max-width: 650px;
   line-height: 1.6;
   font-size: 18px;
-  color: #444;
+  color: #dcddde;
   padding: 0 10px;
+  font-family: system-ui, sans-serif;
+  background-color: #1e1e1e;
 }
 
 h1, h2, h3 {
   line-height: 1.2;
+}
+
+a {
+  color: #8b6cef;
+}
+
+a:visited {
+  color: #b18cff;
+}
+
+a:hover {
+  color: #c9b8ff;
+}
+
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #ffcc66;
+  outline-offset: 4px;
 }
