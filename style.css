@@ -43,3 +43,14 @@ footer {
     border-radius: 8px;
     max-width: 100%;
 }
+
+
+.music-player {
+  margin: 2rem 0;
+}
+
+.music-player audio {
+  width: 100%;
+  max-width: 500px;
+}
+
